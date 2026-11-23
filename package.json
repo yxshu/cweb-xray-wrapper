@@ -1,0 +1,1 @@
+{"description":"Node.js wrapper that runs an Xray VLESS+WebSocket node behind cWeb's managed Node.js hosting (no Dockerfile, no runtime dependencies).","engines":{"node":">=22 <25"},"name":"cweb-xray-wrapper","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
